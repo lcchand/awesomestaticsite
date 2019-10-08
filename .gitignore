@@ -1,0 +1,20 @@
+# Ignore "Public Folder" - this is the final site that gets posted to the Internet
+public/
+
+
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ 
+ 
+ 
+# Emacs generated file #
+########################
+*~
+*# 
+
